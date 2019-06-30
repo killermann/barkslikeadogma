@@ -7,8 +7,8 @@ weight: 6
 
 And all of this adds up and gets expressed in our everyday language:
 
-“[Authority] said [belief] is true and we should show [stance] by [acceptable action].” You can probably fill in those blanks with real examples of authorities, beliefs, stances, and actions -- like a game of mad-libs. If you can't, don't worry, we'll get there.
+“[Authority] said [belief] is true and you should show [stance] by [acceptable action].” You can probably fill in those blanks with real examples of authorities, beliefs, stances, and actions -- like a game of mad-libs. If you can't, don't worry, we'll get there.
 
-What’s implied, but not often said, is “...or we’ll be part of the problem.”
+What’s implied, but not often said, is “...or you'll be part of the problem.”
 
 We hear sentences like that in social justice trainings, on social media, when we read articles, and it's often the between-the-lines thesis of any big argument being made.

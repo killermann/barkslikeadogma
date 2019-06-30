@@ -1,7 +1,7 @@
 ---
 title: "Spotting Tenets in the Wild"
 weight: 2
-discourse: "TK"
+discourse: "https://community.sjmd.space/t/spotting-tenets-in-the-wild"
 ---
 
 One of the major goals of this course is to bring everything we're doing here into the real world. To do that, we're going to keep trying to bring the world into this course.

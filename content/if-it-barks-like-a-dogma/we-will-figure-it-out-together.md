@@ -11,7 +11,7 @@ and
 
 **B.** This thing is something we're constructing and celebrating as a social justice movement that is actually a barrier getting in the way of our own goals.
 
-We'll do this by sharing examples of things we find or are struggling with within the community, then following the norms we set in Module 1 (_name don't blame_, _gratitude not attitude_, appreciative inquiry, etc.).
+We'll do this by sharing examples of things we find or are struggling with within the community, then following the norms we set in Module 1 (name don't blame, gratitude not attitude, appreciative inquiry, etc.).
 
 Sometimes we'll likely learn something is **A** that we suspected was **B**, and that's going to be frustrating.
 

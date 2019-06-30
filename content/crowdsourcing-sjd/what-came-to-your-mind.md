@@ -1,6 +1,6 @@
 ---
 title: "What came to your mind"
-weight: 2
+weight: 3
 typeform: true
 ---
 

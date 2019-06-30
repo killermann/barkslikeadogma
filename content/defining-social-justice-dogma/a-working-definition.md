@@ -3,7 +3,7 @@ title: "A Working Definition"
 weight: 2
 ---
 
-Let's start with the definition introduced by sK back in 2017:
+Let's start with this definition:
 
 > **The social justice dogma** is the set of beliefs, stances, and acceptable actions laid down by the authorities within the social justice movement that we hold as incontrovertibly true.
 

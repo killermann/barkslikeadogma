@@ -1,6 +1,6 @@
 ---
 title: "No Definition Needed"
-weight: 1
+weight: 2
 ---
 
 One of the remarkable things about "social justice dogma" (SJD) is that, while it's not a phrase most people have heard, it immediately evokes a shared understanding in the minds of lots of people.
