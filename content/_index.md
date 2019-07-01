@@ -3,7 +3,7 @@ title: "Barks Like a Dogma"
 chapter: true
 weight: 1
 ---
-### SJMD Course Module 2
+### Module 2
 # Barks Like a Dogma
 
 ##### Guiding Questions:
