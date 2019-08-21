@@ -1,7 +1,7 @@
 ---
 title: "Putting it Together"
 weight: 6
-discourse: "https://community.sjmd.space/t/defining-social-justice-dogma"
+# discourse: "https://community.sjmd.space/t/defining-social-justice-dogma"
 ---
 
 > The social justice dogma is the set of **beliefs**, **stances**, and **acceptable actions** laid down by the **authorities** within the social justice movement that we hold as incontrovertibly true.

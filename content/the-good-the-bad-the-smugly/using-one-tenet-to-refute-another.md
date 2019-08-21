@@ -1,7 +1,7 @@
 ---
 title: "Using One Tenet to Refute Another"
 weight: 2
-discourse: "https://community.sjmd.space/t/using-one-tenet-to-refute-another"
+# discourse: "https://community.sjmd.space/t/using-one-tenet-to-refute-another"
 ---
 
 One risk we run here is doubling down on one tenet of SJD (whether we realize it or not) in order to highlight the harm of another.
@@ -14,6 +14,4 @@ If you haven't read this essay by Audre Lorde, we can't recommend it enough. Her
 
 > "For the master's tools will never dismantle the master's house. They may allow us temporarily to beat him at his own game, but they will never enable us to bring about genuine change."
 
-**We need avoid wielding one tenet of SJD to dismantle another.** Want to discuss this article? Or the this idea in general? [Head over to the community](https://community.sjmd.space/t/using-one-tenet-to-refute-another).
-
-Then let's take this one step further...
+**We need avoid wielding one tenet of SJD to dismantle another.** Then let's take this one step further...

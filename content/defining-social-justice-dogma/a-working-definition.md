@@ -1,7 +1,7 @@
 ---
 title: "A Working Definition"
 weight: 2
-discourse: "https://community.sjmd.space/t/defining-social-justice-dogma"
+# discourse: "https://community.sjmd.space/t/defining-social-justice-dogma"
 ---
 
 Let's start with this definition:

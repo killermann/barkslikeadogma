@@ -5,7 +5,7 @@ weight: 2
 
 Earlier we said that something being dogmatic doesn't _necessarily_ mean it's bad. As we start to name Tenets of SJD, let's keep this in mind by not _just_ highlighting the bad, but the full picture.
 
-Every SJD Tenet has the following parts:
+Every SJD Tenet can have the following parts:
 
 **What it looks like:** a short description of the action, attitude, or belief
 

@@ -11,4 +11,4 @@ Ask friends to tell share examples of social justice dogma they are seeing. If y
 
 Like we said earlier, you probably won't need to give people much context or definition for what you mean by SJD. If they have something to say, they'll say it.
 
-<small><strong>(As you probably guessed, we're going to ask you to share your findings, so give your friends enough time to reply before you move on.)</strong></small>
+As you may've guessed, we're going to ask you to share your findings, so give your friends enough time to reply before you move on.

@@ -1,11 +1,9 @@
 ---
-title: "SJD in the Wild"
+title: "3 Tenets of SJD"
 chapter: true
-weight: 4
+weight: 3
 ---
 ### Barks Like a Dogma
-# SJD in the Wild
+# 3 Tenets of SJD
 
-A Wild SJD TENET appeared! Fight? Run? Figure out [the reference](https://bulbapedia.bulbagarden.net/wiki/Wild_Pok%C3%A9mon#Encounter_messages)?
-
-Let's try to catch 'em all.
+What is an SJD tenet? What are some examples? Why might it be useful to name them?
